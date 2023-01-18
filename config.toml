@@ -1,0 +1,44 @@
+baseURL = "https://ashutoshsinghrawat.com/"
+languageCode = "en-us"
+title = "Ashutosh Singh Rawat"
+theme = "rocinante"
+paginate = 3
+
+[markup]
+  [markup.highlight]
+    style = "monokailight"
+  [markup.goldmark.renderer]
+    unsafe= true
+
+[params]
+  mainSections = ["posts"]
+  email = "mail@example.com"
+  favicon = "icons/favicon.png"
+  about = """
+Hi. I’m Ashutosh. Some people also know me as Ash.
+
+World's #1 procrastinator, self proclaimed coolest dad, innovation & product enthusiast, creator, tech+design fanatic, foodie, amateur percussionist, Ping pong player, and lol gamer.
+"""
+
+#  [[params.links]]
+#    [[params.links.link]]
+#      name = "About"
+#      href = "/Resume.pdf"
+#    [[params.links.link]]
+#      name = "Email"
+#      href = "/contact"
+#      smart_email_link = true
+
+  [[params.links]]
+    [[params.links.link]]
+      name = "Linkedin"
+      href = "www.linkedin.com/in/ashutosh-singh-rawat"
+      new_tab = true
+    [[params.links.link]]
+      name = "Twitter"
+      href = "https://twitter.com/ashutosh508"
+      new_tab = true
+    [[params.links.link]]
+      name = "Instagram"
+      href = "https://www.instagram.com/ashutoshrawat508/"
+      new_tab = true
