@@ -1,4 +1,4 @@
-baseURL = "https://AforAshutosh.github.io"
+baseURL = "http://ashutoshsinghrawat.com/"
 languageCode = "en-us"
 title = "Ashutosh Singh Rawat"
 theme = "rocinante"
@@ -13,7 +13,7 @@ paginate = 3
 [params]
   mainSections = ["posts"] 
   email = "mail@example.com"
-  favicon = "icon/favicon.png"
+  favicon = "icon/favicon.ico"
   about = """
 Hi. I’m Ashutosh. Some people also know me as Ash.
 
