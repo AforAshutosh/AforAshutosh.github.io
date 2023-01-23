@@ -32,7 +32,11 @@ World's #1 procrastinator, self proclaimed coolest dad, innovation & product ent
   [[params.links]]
     [[params.links.link]]
       name = "Linkedin"
-      href = "www.linkedin.com/in/ashutosh-singh-rawat"
+      href = "https://www.linkedin.com/in/ashutosh-singh-rawat"
+      new_tab = true
+    [[params.links.link]]
+      name = "Medium"
+      href = "https://medium.com/@ashutoshsinghrawat"
       new_tab = true
     [[params.links.link]]
       name = "Twitter"
@@ -41,4 +45,8 @@ World's #1 procrastinator, self proclaimed coolest dad, innovation & product ent
     [[params.links.link]]
       name = "Instagram"
       href = "https://www.instagram.com/ashutoshrawat508/"
+      new_tab = true
+    [[params.links.link]]
+      name = "Patents"
+      href = "https://patents.justia.com/inventor/ashutosh-singh-rawat"
       new_tab = true
