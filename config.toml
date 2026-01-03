@@ -15,7 +15,7 @@ theme = "rocinante"
 [params]
   mainSections = ["posts"] 
   email = "mail@example.com"
-  favicon = "icon/favicon.ico"
+  favicon = "icon/asraw.png"
   about = """
 Hi. I’m Ashutosh. Some people also know me as Ash.
 
