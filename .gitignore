@@ -1,0 +1,17 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# KB folder (private notes/documentation)
+/kb/
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
