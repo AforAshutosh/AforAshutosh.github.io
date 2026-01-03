@@ -2,7 +2,9 @@ baseURL = "https://ashutoshsinghrawat.com/"
 languageCode = "en-us"
 title = "Ashutosh Singh Rawat"
 theme = "rocinante"
-paginate = 3
+
+[pagination]
+  pagerSize = 3
 
 [markup]
   [markup.highlight]
